@@ -15,3 +15,4 @@ I'm sorry if thats upsetting :(
 - Automatic speaker_id configuration.
 - Being able to change smooth widths for embeds in Edit Config cell.
 - GAME implementation instead of SOME.
+- Batch CSV cleaner (to remove segments that are only rests when using GAME or SOME generated .ds files)
