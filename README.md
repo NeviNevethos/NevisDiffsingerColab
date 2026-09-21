@@ -16,3 +16,6 @@ I'm sorry if thats upsetting :(
 - Being able to change smooth widths for embeds in Edit Config cell.
 - GAME implementation instead of SOME.
 - Batch CSV cleaner (to remove segments that are only rests when using GAME or SOME generated .ds files)
+
+If you run into any crashes that you think are exclusive, please open an issue on github or send me a message on my discord!
+(Username: Nevethos)
